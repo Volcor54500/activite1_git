@@ -70,3 +70,4 @@
           });
       });
   });
+// commentaire: activité jQuery disponible sur GitHub
